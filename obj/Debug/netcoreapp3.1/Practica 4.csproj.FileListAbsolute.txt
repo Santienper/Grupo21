@@ -1,0 +1,14 @@
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.exe
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.deps.json
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.runtimeconfig.json
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.runtimeconfig.dev.json
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.dll
+U:\hlocal\Grupo21\bin\Debug\netcoreapp3.1\Practica 4.pdb
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.csproj.AssemblyReference.cache
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.GeneratedMSBuildEditorConfig.editorconfig
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.AssemblyInfoInputs.cache
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.AssemblyInfo.cs
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.csproj.CoreCompileInputs.cache
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.dll
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.pdb
+U:\hlocal\Grupo21\obj\Debug\netcoreapp3.1\Practica 4.genruntimeconfig.cache
