@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "U:\\hlocal\\Grupo21\\Practica 4.csproj": {}
+    "U:\\hlocal\\MAP\\Grupo21\\Practica 4.csproj": {}
   },
   "projects": {
-    "U:\\hlocal\\Grupo21\\Practica 4.csproj": {
+    "U:\\hlocal\\MAP\\Grupo21\\Practica 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\hlocal\\Grupo21\\Practica 4.csproj",
+        "projectUniqueName": "U:\\hlocal\\MAP\\Grupo21\\Practica 4.csproj",
         "projectName": "Practica 4",
-        "projectPath": "U:\\hlocal\\Grupo21\\Practica 4.csproj",
+        "projectPath": "U:\\hlocal\\MAP\\Grupo21\\Practica 4.csproj",
         "packagesPath": "C:\\Users\\usuario_local\\.nuget\\packages\\",
-        "outputPath": "U:\\hlocal\\Grupo21\\obj\\",
+        "outputPath": "U:\\hlocal\\MAP\\Grupo21\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\software\\programacion\\MSVStudio2017\\Shared\\NuGetPackages",
